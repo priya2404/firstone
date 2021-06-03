@@ -187,6 +187,7 @@
     <Compile Include="Supplier.cs">
       <DependentUpon>ADD.tt</DependentUpon>
     </Compile>
+    <Compile Include="vishnu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ADD.Context.tt">
